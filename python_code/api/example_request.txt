@@ -1,0 +1,4 @@
+ curl -X POST https://api.runpod.ai/v2/tq2lmau6k4mztl/runsync \
+ -H 'Content-Type: application/json' \
+ -H 'Authorization: Bearer WAKSFIQDMGTL0PGIWA26MX42SOMG3F6H7GIDUDG8' \
+ -d '{"input": {"messages": [{"role":"user","content": "I would like one Latte please"}]}}'

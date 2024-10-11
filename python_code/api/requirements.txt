@@ -1,0 +1,5 @@
+pandas==2.0.3
+python-dotenv==1.0.1
+openai==1.50.2
+runpod==1.7.1
+pinecone==5.3.1

@@ -1,0 +1,89 @@
+product_id,product_group,product_category,product_type,product,product_description,unit_of_measure,current_wholesale_price,current_retail_price,tax_exempt_yn,promo_yn,new_product_yn
+1,Whole Bean/Teas,Coffee beans,Organic Beans,Brazilian - Organic,It's like Carnival in a cup. Clean and smooth.,12 oz,14.4,$18.00 ,Y,N,N
+2,Whole Bean/Teas,Coffee beans,House blend Beans,Our Old Time Diner Blend,Out packed blend of beans that is reminiscent of the cup of coffee you used to get at a diner. ,12 oz,14.4,$18.00 ,Y,N,N
+3,Whole Bean/Teas,Coffee beans,Espresso Beans,Espresso Roast,Our house blend for a good espresso shot.,1 lb,11.8,$14.75 ,Y,N,N
+4,Whole Bean/Teas,Coffee beans,Espresso Beans,Primo Espresso Roast,Our primium single source of hand roasted beans.,1 lb,16.36,$20.45 ,Y,N,N
+5,Whole Bean/Teas,Coffee beans,Gourmet Beans,Columbian Medium Roast,A smooth cup of coffee any time of day. ,1 lb,12,$15.00 ,Y,N,N
+6,Whole Bean/Teas,Coffee beans,Gourmet Beans,Ethiopia,From the home of coffee.,1 lb,16.8,$21.00 ,Y,N,N
+7,Whole Bean/Teas,Coffee beans,Premium Beans,Jamacian Coffee River,"Ya man, it will start your day off right. ",1 lb,15.8,$19.75 ,Y,N,N
+8,Whole Bean/Teas,Coffee beans,Premium Beans,Civet Cat,"The most expensive coffee in the world, the cats do all the work. ",.5 lb,36,$45.00 ,Y,N,N
+9,Whole Bean/Teas,Coffee beans,Organic Beans,Organic Decaf Blend,Our blend of hand picked organic beans that have been naturally decaffinated. ,1 lb,18,$22.50 ,Y,N,N
+10,Whole Bean/Teas,Coffee beans,Green beans,Guatemalan Sustainably Grown,Green beans you can roast yourself. ,1 lb,8,$10.00 ,Y,N,N
+11,Whole Bean/Teas,Loose Tea,Herbal tea,Lemon Grass,You will think you are Thailand as you sip your cuppa. ,.9 oz,7.16,$8.95 ,Y,N,N
+12,Whole Bean/Teas,Loose Tea,Herbal tea,Peppermint,Cool and refreshing to help calm your nerves. ,.9 oz,7.16,$8.95 ,Y,N,N
+13,Whole Bean/Teas,Loose Tea,Black tea,English Breakfast,The traditional cup to start your day.,.9 oz,7.16,$8.95 ,Y,N,N
+14,Whole Bean/Teas,Loose Tea,Black tea,Earl Grey,A full leaf of Orange Pekoe blended with organic oil of bergamot.,.9 oz,7.16,$8.95 ,Y,N,N
+15,Whole Bean/Teas,Loose Tea,Green tea,Serenity Green Tea,Mountain grown and harvested at the optimal time. ,1 oz,7.4,$9.25 ,Y,N,N
+16,Whole Bean/Teas,Loose Tea,Chai tea,Traditional Blend Chai,A traditional blend.,.9 oz,7.16,$8.95 ,Y,N,N
+17,Whole Bean/Teas,Loose Tea,Chai tea,Morning Sunrise Chai,Fair trade and organic and has a warm finish. ,.9 oz,7.6,$9.50 ,Y,N,N
+18,Whole Bean/Teas,Loose Tea,Chai tea,Spicy Eye Opener Chai,A spicier blend to awaken your taste buds.,.9 oz,8.76,$10.95 ,Y,N,N
+19,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate,Dark chocolate,This drinking chocolate is smooth and creamy.,1 lb,5.12,$6.40 ,Y,N,N
+20,Whole Bean/Teas,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,Certified organic containing the highest quality ingredients. ,1 lb,6.08,$7.60 ,Y,N,N
+21,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate,Chili Mayan,"Fragrant with spices, this is the most flavourful drinking chocolate you will find.",1 lb,10.66,$13.33 ,Y,N,N
+22,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Sm,An honest cup a coffee.,8 oz,0.4,$2.00 ,Y,N,N
+23,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Rg,An honest cup a coffee.,16 oz,0.5,$2.50 ,Y,N,N
+24,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Lg,An honest cup a coffee.,24 oz,0.6,$3.00 ,Y,N,N
+25,Beverages,Coffee,Organic brewed coffee,Brazilian Sm,It's like Carnival in a cup. Clean and smooth.,8 oz,0.44,$2.20 ,Y,N,N
+26,Beverages,Coffee,Organic brewed coffee,Brazilian Rg,It's like Carnival in a cup. Clean and smooth.,16 oz,0.6,$3.00 ,Y,N,N
+27,Beverages,Coffee,Organic brewed coffee,Brazilian Lg,It's like Carnival in a cup. Clean and smooth.,24 oz,0.7,$3.50 ,Y,N,N
+28,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,A smooth cup of coffee any time of day. ,8 oz,0.4,$2.00 ,Y,N,N
+29,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,A smooth cup of coffee any time of day. ,16 oz,0.5,$2.50 ,Y,N,N
+30,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,A smooth cup of coffee any time of day. ,24 oz,0.6,$3.00 ,Y,N,N
+31,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Sm,A bold cup when you want that something extra.,8 oz,0.44,$2.20 ,Y,N,N
+32,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Rg,A bold cup when you want that something extra.,16 oz,0.6,$3.00 ,Y,N,N
+33,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Lg,A bold cup when you want that something extra.,24 oz,0.7,$3.50 ,Y,N,N
+34,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Still a front runner for good premium coffee. ,8 oz,0.49,$2.45 ,Y,N,N
+35,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Still a front runner for good premium coffee. ,16 oz,0.62,$3.10 ,Y,N,N
+36,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Still a front runner for good premium coffee. ,24 oz,0.75,$3.75 ,Y,N,N
+37,Beverages,Coffee,Barista Espresso,Espresso shot,You will think you are in Venice when you sip this one. ,1.5 oz,0.6,$3.00 ,Y,N,N
+38,Beverages,Coffee,Barista Espresso,Latte,You will think you are in Venice when you sip this one. ,1.5 oz,0.75,$3.75 ,Y,N,N
+39,Beverages,Coffee,Barista Espresso,Latte Rg,You will think you are in Venice when you sip this one. ,3.0 oz,0.85,$4.25 ,Y,N,N
+40,Beverages,Coffee,Barista Espresso,Cappuccino,You will think you are in Venice when you sip this one. ,1.5 oz,0.75,$3.75 ,Y,N,N
+41,Beverages,Coffee,Barista Espresso,Cappuccino Lg,You will think you are in Venice when you sip this one. ,3.0 oz,0.85,$4.25 ,Y,N,N
+42,Beverages,Tea,Brewed herbal tea,Lemon Grass Rg,You will think you are in Thailand. ,16 oz,0.63,$2.50 ,Y,N,N
+43,Beverages,Tea,Brewed herbal tea,Lemon Grass Lg,You will think you are in Thailand. ,24 oz,0.75,$3.00 ,Y,N,N
+44,Beverages,Tea,Brewed herbal tea,Peppermint Rg,A cool and refreshing cup.,16 oz,0.63,$2.50 ,Y,N,N
+45,Beverages,Tea,Brewed herbal tea,Peppermint Lg,A cool and refreshing cup.,24 oz,0.75,$3.00 ,Y,N,N
+46,Beverages,Tea,Brewed Green tea,Serenity Green Tea Rg,Feel the stress leaving your body. ,16 oz,0.63,$2.50 ,Y,N,N
+47,Beverages,Tea,Brewed Green tea,Serenity Green Tea Lg,Feel the stress leaving your body. ,24 oz,0.75,$3.00 ,Y,N,N
+48,Beverages,Tea,Brewed Black tea,English Breakfast Rg,The Queen's favourite cuppa in the morning. ,16 oz,0.63,$2.50 ,Y,N,N
+49,Beverages,Tea,Brewed Black tea,English Breakfast Lg,The Queen's favourite cuppa in the morning. ,24 oz,0.75,$3.00 ,Y,N,N
+50,Beverages,Tea,Brewed Black tea,Earl Grey Rg,Tradition in a cup.,16 oz,0.63,$2.50 ,Y,N,N
+51,Beverages,Tea,Brewed Black tea,Earl Grey Lg,Tradition in a cup.,24 oz,0.75,$3.00 ,Y,N,N
+52,Beverages,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Sit back and think of the tropical breezes.,16 oz,0.63,$2.50 ,Y,N,N
+53,Beverages,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Sit back and think of the tropical breezes.,24 oz,0.75,$3.00 ,Y,N,N
+54,Beverages,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Face the morning after your yoga routine. ,16 oz,0.63,$2.50 ,Y,N,N
+55,Beverages,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Face the morning after your yoga routine. ,24 oz,1,$4.00 ,Y,N,N
+56,Beverages,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,When you need your eyes opened wide.,16 oz,0.64,$2.55 ,Y,N,N
+57,Beverages,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,When you need your eyes opened wide.,24 oz,0.78,$3.10 ,Y,N,N
+58,Beverages,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,"Slightly bitter, but still very rich. ",12 oz,2.63,$3.50 ,Y,N,N
+59,Beverages,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,"Slightly bitter, but still very rich. ",16 oz,3.38,$4.50 ,Y,N,N
+60,Beverages,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Just pure notes of spice.,12 oz,2.81,$3.75 ,Y,N,N
+61,Beverages,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Just pure notes of spice.,16 oz,3.56,$4.75 ,Y,N,N
+62,Beverages,Drinking Chocolate,Hot chocolate,Snow Day Hot Chocolate,Added marshmallows for the needed sugar rush.,8 oz,2.25,$3.00 ,Y,N,N
+63,Add-ons,Flavours,Regular syrup,Carmel syrup,Rich carmel taste,pump,0.04,$0.80 ,Y,N,N
+64,Add-ons,Flavours,Regular syrup,Hazelnut syrup,Bursting with nutty flavour,pump,0.04,$0.80 ,Y,N,N
+65,Add-ons,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,Our favorite,pump,0.04,$0.80 ,Y,N,N
+66,Beverages,Coffee,Seasonal drink,Pumpkin Spice Latte,"Boo, its that time of year again",1.5 oz,0.99,$4.95 ,Y,N,N
+67,Beverages,Coffee,Seasonal drink,Pumpkin Spice Latte Lg,"Boo, its that time of year again",3.0 oz,1.19,$5.95 ,Y,Y,N
+68,Beverages,Drinking Chocolate,Seasonal drink,Happy Holidays hot chocolate,"Candy cane and hot chocolate, perfect.",8 oz,2.81,$3.75 ,Y,Y,Y
+75,Food,Bakery,Pastry,Croissant,Flakey and buttery,single,2.11,$3.25 ,N,N,N
+70,Food,Bakery,Scone,Cranberry Scone,Like Grandma used to make,single,2.11,$3.25 ,N,N,N
+71,Food,Bakery,Pastry,Chocolate Croissant,Chocolate flakes,single,2.44,$3.75 ,N,N,N
+72,Food,Bakery,Scone,Ginger Scone,Little bit of spice,single,2.11,$3.25 ,N,N,N
+73,Food,Bakery,Pastry,Almond Croissant,Crunch!,single,2.44,$3.75 ,N,N,N
+74,Food,Bakery,Biscotti,Ginger Biscotti,Crunch!,single,2.28,$3.50 ,N,N,N
+69,Food,Bakery,Biscotti,Hazelnut Biscotti,Crunch!,single,2.28,$3.50 ,N,N,N
+76,Food,Bakery,Biscotti,Chocolate Chip Biscotti,Crunch!,single,2.28,$3.50 ,N,N,N
+77,Food,Bakery,Scone,Oatmeal Scone,Grannys fav,single,1.95,$3.00 ,N,N,N
+78,Food,Bakery,Scone,Scottish Cream Scone ,Old time comfort,single,2.93,$4.50 ,N,N,N
+79,Food,Bakery,Scone,Jumbo Savory Scone,"Anytime, anywhere",single,2.44,$3.75 ,N,N,N
+80,Merchandise,Branded,Clothing,I Need My Bean! Toque,keep your head bean warm,single,7.36,$23.00 ,N,N,N
+81,Merchandise,Branded,Clothing,I Need My Bean! T-shirt,Stylish chic,single,8.96,$28.00 ,N,N,N
+82,Merchandise,Branded,Housewares,I Need My Bean! Diner mug,Classic,single,3.84,$12.00 ,N,N,N
+83,Merchandise,Branded,Housewares,I Need My Bean! Latte cup,The cup and saucer set is the perfect way to enjoy your latte at home,single,4.48,$14.00 ,N,N,N
+84,Add-ons,Flavours,Regular syrup,Chocolate syrup,Bursting with chocolate flavour,pump,0.04,$0.80 ,Y,N,N
+85,Beverages,Coffee,Specialty coffee,Rio Nights,2 shots of Ouro Brasilerio and pure cane sugar syrup,6 oz,1.2,$6.00 ,Y,N,Y
+87,Beverages,Coffee,Barista Espresso,Ouro Brasileiro shot,From Rio,1.5 oz,0.6,$3.00 ,Y,N,N
+88,Beverages,Coffee,Barista Espresso,Ouro Brasileiro shot promo,Ouro promo,16 oz,0.42,$2.10 ,Y,Y,N
+89,Food,Bakery,Scone,Ginger Scone promo,Little bit of spice,single,1.72,$2.65 ,N,Y,N
